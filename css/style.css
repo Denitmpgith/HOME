@@ -132,6 +132,8 @@ h1 {
 
 /* Over flow */
 .ov-fl-hhn {
+  height: 1.5rem;
+  padding: 0.25rem;
   overflow: hidden;
 }
 
@@ -140,7 +142,6 @@ h1 {
   position: relative;
   color: #e47c25;
   letter-spacing: 2px;
-  text-transform: uppercase;
   overflow: hidden;
   animation: upper 12s steps(1) infinite;
 }
