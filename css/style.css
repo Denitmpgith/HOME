@@ -124,7 +124,6 @@ h1 {
 .tying {
   position: absolute;
   height: 1rem;
-  margin-left: -15px;
   width: 300px;
   overflow: hidden;
 }
