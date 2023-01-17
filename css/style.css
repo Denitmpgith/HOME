@@ -43,6 +43,15 @@ h1 {
 }
 
 /* Posision element*/
+.pos-re {
+  position: relative;
+}
+
+.pos-ab-lr0 {
+  position: absolute;
+  left: 0;
+  right: 0;
+}
 
 .posi-fix-btt {
   position: fixed;
@@ -121,16 +130,14 @@ h1 {
   box-shadow: 0 0 0.5rem rgb(0, 0, 0.15);
 }
 
-.tying {
-  position: absolute;
-  height: 1rem;
-  width: 300px;
+/* Over flow */
+.ov-fl-hhn {
   overflow: hidden;
 }
-.tying p {
+
+.textp {
   font-family: "oswald";
   position: relative;
-  text-align: center;
   color: #e47c25;
   letter-spacing: 2px;
   text-transform: uppercase;
