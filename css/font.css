@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "oswald";
+  src: url(/font/Oswald-VariableFont_wght.ttf);
+}
+.fontosw {
+  font-family: "oswald";
+}

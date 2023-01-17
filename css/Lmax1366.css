@@ -1,0 +1,11 @@
+@media screen and (orientation: landscape) and (max-width: 1366px) {
+  /* body {
+    grid-template-columns: repeat(12, 1fr);
+  } */
+  menu ul li a p {
+    display: block;
+  }
+  menu ul li a img {
+    display: none;
+  }
+}

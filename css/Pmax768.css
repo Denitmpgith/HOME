@@ -1,0 +1,23 @@
+@media screen and (orientation: portrait) and (max-width: 768px) {
+  /* body {
+    grid-template-columns: repeat(12, 1fr);
+  } */
+  menu ul li a p {
+    display: none;
+  }
+  menu ul li a img {
+    display: block;
+  }
+  .pos-rel-btt-25 {
+    position: relative;
+    border-radius: 50%;
+    border: 1px solid rgb(255, 255, 255);
+    bottom: 35px;
+    transition: 3s;
+  }
+  .pos-rel-btt-25:hover {
+    border: 1px solid #e47c25;
+    box-shadow: 0px 0px 15px #e47c25;
+    transition: 1s;
+  }
+}

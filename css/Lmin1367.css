@@ -1,0 +1,11 @@
+@media screen and (orientation: landscape) and (min-width: 1367px) {
+  /* body {
+    grid-template-columns: 1fr repeat(12, 110px) 1fr;
+  } */
+  menu ul li a p {
+    display: block;
+  }
+  menu ul li a img {
+    display: none;
+  }
+}
